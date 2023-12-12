@@ -1,0 +1,19 @@
+.favourite {
+  color: blue;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* color: red; */
+}
+input {
+  width: 800px;
+}
+/* 
+.text {
+  background: linear-gradient(20deg, grey, black, orange);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-size: 200px;
+} */
