@@ -11,7 +11,7 @@ function Hero() {
     setCount(count - 1);
   };
   const toggle = ()=>{
-    setLogin(!login)
+    setLogin(login)
   }
   return (
     <div>
